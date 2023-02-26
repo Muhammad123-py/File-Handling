@@ -1,0 +1,4 @@
+Python is a high level Programming Language with Quite easy syntax
+Python is a open source programming language which is easier to learn than otehr programmming languages
+Python as a programmming language finds it's uses in machine learning, data science, A.I and in other fields.
+Python is an object oriented programming language developed by "Guido Van Rossum"
